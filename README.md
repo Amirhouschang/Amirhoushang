@@ -12,16 +12,26 @@ taught me to work with rapidly changing information and context. I learned to
 absorb new data and sources quickly, identify what matters, and turn it into
 clear, structured analysis.
 
-I am not a finance professional, but markets and Web3 fascinate me — on-chain
+I question sources, assumptions, methods, and my own conclusions, often
+repeatedly. I prefer to verify rather than assume, and to state uncertainty
+clearly instead of making results look stronger than they are.
+
+I am not a finance professional, but markets and Web3 fascinate me. On-chain
 data is public, huge, and messy, so many of my projects use it. My focus is on
 the data: how it is collected, cleaned, structured, analysed, and interpreted.
 The same methods can be applied in any field.
 
-**Tools:** Python (pandas, Matplotlib, Seaborn) · SQL (PostgreSQL, Dune) · Power BI (DAX) · Excel (Power Query) · APIs & ETL · AWS basics · Jupyter · Linux
+## Tools
 
-**AI:** daily use for coding and research, plus local models with Ollama and RAG. I use AI as a tool, not as a substitute for checking the data — generated code, analysis, and conclusions are reviewed, and AI use is disclosed where relevant.
+Python (pandas, Matplotlib, Seaborn) · SQL (PostgreSQL, Dune) · Power BI
+(DAX) · Excel (Power Query) · APIs & ETL · AWS basics · Jupyter · Linux
 
-**Interested in:** data roles in any field, especially the Middle East, security, research, public institutions, finance, Web3, and on-chain data.
+## AI
+
+I use AI daily for coding and research, including local models with Ollama and
+RAG. I use AI as a tool, not as a substitute for checking the data. Generated
+code, analysis, and conclusions are reviewed, and AI use is disclosed where
+relevant.
 
 ## Projects
 
@@ -35,14 +45,27 @@ The same methods can be applied in any field.
 
 ## Background
 
-- **Data and Process Analysis with Python** — Data Analytics Compact Course, Data Science Institute, Berlin  
-  Feb–Aug 2026 · 24 weeks · certified
+**Data and Process Analysis with Python**  
+Data Analytics Compact Course, Data Science Institute, Berlin  
+Feb–Aug 2026 · 24 weeks · certified
 
-- **M.A. Iranian Studies** — University of Bamberg
-- **B.A. Iranian, Islamic and Jewish Studies** — Freie Universität Berlin
+**M.A. Iranian Studies**  
+University of Bamberg
 
-MMy academic work focused on Iran and the wider Middle East, with particular attention to Persian-language sources, media, and political history.
+**B.A. Iranian, Islamic and Jewish Studies**  
+Freie Universität Berlin
+
+My academic work focused on Iran and the wider Middle East, Persian-language
+sources, media, and political history.
 
 ## Languages
 
-**Persian:** native · **German:** fluent · **English:** B1–B2 · **Arabic, Hebrew, Turkish:** reading knowledge
+Persian: native  
+German: fluent  
+English: B1–B2  
+Arabic, Hebrew, Turkish: reading knowledge
+
+## Interests
+
+Data roles in any field, especially the Middle East, security, research, public
+institutions, finance, Web3, and on-chain data.
