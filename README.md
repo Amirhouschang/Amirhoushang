@@ -7,6 +7,11 @@ languages. Numbers and code won me over because they can be checked. I bring
 source criticism, regional knowledge, and a habit of documenting limitations
 instead of hiding them.
 
+Living with and studying the complexity of Iran and the wider Middle East
+taught me to work with rapidly changing information and context. I learned to
+absorb new data and sources quickly, identify what matters, and turn it into
+clear, structured analysis.
+
 I am not a finance professional, but markets and Web3 fascinate me — on-chain
 data is public, huge, and messy, so many of my projects use it. My focus is on
 the data: how it is collected, cleaned, structured, analysed, and interpreted.
