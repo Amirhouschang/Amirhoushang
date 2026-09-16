@@ -49,7 +49,7 @@ Data Science Institute, Berlin · Feb–Aug 2026 · 24 weeks
 
 **M.A. Iranian Studies — University of Bamberg**  
 **B.A. — Freie Universität Berlin**  
-Iranian, Islamic and Jewish Studies
+Islamic and Jewish Studies
 
 My academic work focused on Iran, Persian-language sources, media and
 political history.
