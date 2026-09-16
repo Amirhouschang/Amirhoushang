@@ -36,7 +36,7 @@ The same methods can be applied in any field.
 - **M.A. Iranian Studies** — University of Bamberg
 - **B.A. Iranian, Islamic and Jewish Studies** — Freie Universität Berlin
 
-My academic work focused on Iran, Persian-language sources, media, and political history.
+MMy academic work focused on Iran and the wider Middle East, with particular attention to Persian-language sources, media, and political history.
 
 ## Languages
 
